@@ -1,0 +1,13 @@
+/__pycache__/
+chromeExt/
+test.py
+APIinterface/__pycache__/
+APIinterface/__pycache__/__init__.cpython-310.pyc
+APIinterface/__pycache__/APIdriver.cpython-39.pyc
+APIinterface/__pycache__/APIdriver.cpython-310.pyc
+APIinterface/__pycache__/driverUtils.cpython-39.pyc
+APIinterface/__pycache__/driverUtils.cpython-310.pyc
+APIinterface/__pycache__/enc.cpython-39.pyc
+APIinterface/__pycache__/encrypting.cpython-39.pyc
+APIinterface/__pycache__/urlEncoder.cpython-39.pyc
+APIinterface/__pycache__/urlEncoder.cpython-310.pyc
